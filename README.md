@@ -1,10 +1,4 @@
-# The DOM Challenge
-
-Devkode is coming up with a weekly hackathon, **#TheDOMChallenge** <br />
-It's a 60-90 minutes online weekly challenge related to frontend development consisting of
-industrial level machine round questions.
-
-Cloned from https://github.com/devkodeio/the-dom-challenge with my Solutions
+# The DOM Challenges
 
 ---
 
@@ -76,4 +70,57 @@ Implement Day Calendar using HTML, CSS and Vanilla Javascript. [View](./calendar
 
 **Solution:** https://codesandbox.io/s/day-calendar-qbe56p
 
-<br />
+---
+
+### Challenge 8:
+
+Implement Toast widget using HTML, CSS and Vanilla Javascript.
+
+**Duration:** 30 Minutes <br/>
+
+**Solution:**
+
+---
+
+### Challenge 9:
+
+Implement Tic Tac Toe using HTML, CSS and Vanilla Javascript.
+
+- Users can play game and on winning a confirmation modal is displayed
+- Next turn to be displayed.
+- additional points if scores stored in local storage
+
+**Duration:** 60-90 Minutes <br/>
+
+**Solution:** https://codesandbox.io/s/tic-tac-toe-xohg2p
+
+---
+
+### Challenge 10:
+
+Implement Comment wizard using HTML, CSS and Vanilla Javascript.
+
+- Users can add any number of comments
+- Users can reply to any comment or can reply to any other replied comments
+- Nested child comments should be shown with appropriate padding with respect to its parent.
+
+**Duration:** 90 Minutes <br/>
+
+**Solution:**
+
+---
+
+### Challenge 11:
+
+Implement Day Month Calendar using HTML, CSS and Vanilla Javascript.
+
+- Should display all data same as in a calendar.
+- Should handle all edge cases (months which have 31 days and we need extra rows)
+- A prev and next button to navigate between months and year
+- A div displaying current date and month.
+
+**Duration:** 120 Minutes <br/>
+
+**Solution:**
+
+---
